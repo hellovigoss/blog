@@ -17,10 +17,20 @@ layout: default
   <section class="post-content">
     {{ content }}
   </section>
-  
+
+<section>
+	{% include duoshuo.html %}
+</section>
 
 </article>
-  <hr />
+
+<!-- Disqus -->
+{% if site.theme.disqus_shortname %}
+<div class="comments">
+	{% include disqus.html %}
+</div>
+{% endif %}
+
 <article class="bottom-nav">
   <section>
 	{% if page.previous %}
@@ -32,9 +42,3 @@ layout: default
   </section>
 </article>
 
-<!-- Disqus -->
-{% if site.theme.disqus_shortname %}
-<div class="comments">
-  {% include disqus.html %}
-</div>
-{% endif %}

@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "关于IO"
+date:   2015-02-14 10:43:00
+categories: IT技术
+---
+
+快过年了，也得空写一些东西，前些时间与人讨论IO相关技术*（此处特质网络通信中IO）*，在这儿刚好总结一下。
+
+IO相关专业名词四个：   
+* blockingIO 阻塞式IO
+* non-blockingIO 非阻塞式IO
+* Synchronous 同步
+* Asynchronous 异步
+
+很多人可能很简单的把其中的阻塞式理解成同步，非阻塞式就理解成异步，其实这是有偏差的。我们可以

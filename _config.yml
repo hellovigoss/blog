@@ -8,9 +8,9 @@ safe: false
 theme:
   # Meta
   title: hellovgoss's blog
-  avatar: avatar.png
+  avatar: avatar_cube.png
   gravatar: # email md5 hash
-  description: "干的漂亮" # used by search engines
+  description: "悠然见南山" # used by search engines
   
   # Header and footer text
   header_text: >
@@ -41,7 +41,8 @@ theme:
   
   # Scripts
   google_analytics: # tracking id, e.g. "UA-000000-01"
-  disqus_shortname:
+  disqus_shortname: 
+  qq_analytics: "http://tajs.qq.com/stats?sId=42792229"
   
   # Localization strings
   str_follow_on: "Follow on"
