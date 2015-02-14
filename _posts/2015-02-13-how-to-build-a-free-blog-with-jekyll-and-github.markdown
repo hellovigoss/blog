@@ -27,3 +27,5 @@ categories: 花样炸鸡
 
 *一个[jekyll模板网站](http://jekyllthemes.org/)，直接clone到本地覆盖然后在进行发布即可*
 
+*如何利用自定义插件完成jekyll分类功能，[为 Jekyll 博客添加 category 分类](http://pizn.github.io/2012/02/23/use-category-plugin-for-jekyll-blog.html)*
+

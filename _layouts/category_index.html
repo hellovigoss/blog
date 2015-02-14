@@ -4,12 +4,9 @@ layout: default
 
 <div class="home">
 
-  {% if site.theme.header_text %}
-  <div class="call-out">{{ site.theme.header_text }}</div>
-  {% endif %}
 
   <div class="posts">
-    {% for post in paginator.posts %}
+    {% for post in site.categories.[page.category] %}
     <div class="post-teaser">
     
       <header>

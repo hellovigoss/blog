@@ -19,5 +19,5 @@ profile me = {
 	"hellovigoss@gmail.com",
 	"http://www.weibo.com/hellovigoss",
 	"410947512"
-}
+};
 ```
