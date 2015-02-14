@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "如何使用jekyll与github建立免费的不限流量的blog"
-date:   2015-02-13 14:47:27
+date:   2015-02-08 14:47:27
 categories: 花样炸鸡
 ---
 本文说明了如何使用jekyll搭建一个免费的、无限流量的个人博客网站，以及后续的管理
