@@ -50,7 +50,7 @@ theme:
   str_email: "Email"
   str_next: "Next"
   str_prev: "Prev"
-  str_continue_reading: "Read =&gt;"
+  str_continue_reading: "接着看"
   
   # Colors, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
